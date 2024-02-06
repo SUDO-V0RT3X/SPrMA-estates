@@ -1,0 +1,1 @@
+This site was made for SPrMA estate managers. The CEO decided against publishing the site and gave me permission to showcase this site on my GitHub publically after the porject was abandoned. The project is incomplete.
